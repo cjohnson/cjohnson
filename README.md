@@ -8,9 +8,7 @@ I'm an FRC student that's interested in software development & engineering!
 
  - 🌱 I’m currently learning ...
     * Dart - A client-optimized programming language for apps on multiple platforms
-    * Java - A popular programming language, created in 1995.
     * C++ - A general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language
-    * [WPILib](https://github.com/wpilibsuite/allwpilib) - The WPILib Mission is to enable FIRST Robotics teams to focus on writing game-specific software rather than focusing on hardware details.
     * [Flutter](https://flutter.dev/) Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
     * [OpenGL](https://opengl.org) The Industry's Foundation for High Performance Graphics.
 
