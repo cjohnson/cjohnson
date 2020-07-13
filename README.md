@@ -1,5 +1,25 @@
-### Hi there 👋
+## Hi, I'm Collin! :wave:
+I'm an FRC student that's interested in software development & engineering!
 
+ - 🔭 I'm currently working on...
+    * [dreadscout](https://github.com/cjohnson/dreadscout) - dreadscout is a scouting tools application for the [3656 Dexter Dreadbots](https://github.com/Dreadbot) written in Dart using Flutter.
+    * [mcGUICI](https://github.com/cjohnson/mcGUICI) - mcGUICI is a simple Minecraft GUI by Container Inventory (mcGUICI) Library that allows for quick, customizable menus with programmable features. Written in Java using the [PaperMC](https://github.com/PaperMC/Paper) API.
+    * [CatacombCrawlersC](https://github.com/cjohnson/CatacombCrawlersC) - A simple dungeon crawler game implemented in C++, GLFW, GLAD, and OpenGL 3.3.
+
+ - 🌱 I’m currently learning ...
+    * Dart - A client-optimized programming language for apps on multiple platforms
+    * Java - A popular programming language, created in 1995.
+    * C++ - A general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language
+    * [WPILib](https://github.com/wpilibsuite/allwpilib) - The WPILib Mission is to enable FIRST Robotics teams to focus on writing game-specific software rather than focusing on hardware details.
+    * [Flutter](https://flutter.dev/) Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
+    * [OpenGL](https://opengl.org) The Industry's Foundation for High Performance Graphics.
+
+ - 💬 Ask me about ...
+    * [FIRST Robotics](https://www.firstinspires.org/robotics/frc) - Combining the excitement of sport with the rigors of science and technology
+
+ - 📫 How to reach me ...
+    * Email - collin.g.johnson@gmail.com
+    * [Twitter](https://twitter.com/collinjohnson02) - @collinjohnson02 on Twitter
 <!--
 **cjohnson/cjohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
