@@ -6,8 +6,8 @@ Computer Science and Engineering ([CSE](https://cse.engin.umich.edu/)) Student a
 ### Favorite Courses at UMich
 
 #### Physics
-* PHYSICS140: General Physics I with Professor Yuri Popov
-* PHYSICS240: General Physics II with Professor Dave Winn
+* PHYSICS140: General Physics I
+* PHYSICS240: General Physics II
 
 #### Engineering
 * ENGR100: Self Driving Cars, Drones, & Beyond (ECE)
