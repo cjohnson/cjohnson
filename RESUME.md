@@ -32,6 +32,9 @@ Developed skills in building software, testing methodology, and developing softw
 ## Technology Skills
 
 **Operating Systems**: Windows, Linux
+
 **Databases**: Microsoft SQL Server, MySQL, Oracle Database, MongoDB, Azure AI Search
+
 **Backend**: ASP.NET Core, C#, .NET, C++, Java, SQL, REST APIs
+
 **Frontend**: HTML, CSS, JavaScript, TypeScript, React.js, Microsoft SignalR
